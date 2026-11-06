@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "meetup",
+  "versions": [
+    {
+      "commit": "0dfed587b7f1c38e5c747d16b7e188c02433f141",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:52:12.463452+00:00"
+    }
+  ]
+}
